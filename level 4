@@ -1,0 +1,24 @@
+{
+    "id": 107628965,
+    "name": "VStalemate",
+    "author": "DomisorusRex",
+    "creators": [DomisorusRex],
+    "verifier": "DomisorusRex",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+         {
+            "user": "Soupy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+ {
+            "user": "AnomolyGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
