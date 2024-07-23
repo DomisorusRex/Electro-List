@@ -8,9 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
             "user": "DomisorusRex",
             "link": "",
             "percent": 100,
             "hz": 240
+        }
     ]
 }
