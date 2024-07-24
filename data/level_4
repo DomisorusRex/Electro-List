@@ -1,1 +1,30 @@
-
+{
+    "id": 108139085,
+    "name": "Vendetta",
+    "author": "Shadow",
+    "creators": ["Shadow"],
+    "verifier": "Shadow",
+    "verification": "https://www.youtube.com/watch?v=_alJzKJFvns",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Soupy",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+{
+            "user": "DomisorusRex",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+{
+            "user": "AnomolyGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
