@@ -1,0 +1,18 @@
+{
+    "id": 107624334,
+    "name": "Allegiance",
+    "author": "Nikroplays",
+    "creators": [Nikroplays],
+    "verifier": "DomisorusRex",
+    "verification": "https://www.youtube.com/watch?v=URwPErFdH7c&t=",
+    "percentToQualify": "63",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "Foxxgod",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
