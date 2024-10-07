@@ -1,5 +1,5 @@
 {
-    "id": 108150390,
+    "id": 64148732,
     "name": "Glide",
     "author": "Chron44",
     "creators": ["Chron44"],
@@ -8,17 +8,11 @@
     "percentToQualify": "58",
     "password": "Not Copyable",
     "records": [
-         {
-            "user": "Mako",
-            "link": "",
-            "percent": 72,
-            "hz": 360
-        }
         {
-            "user": "AnomalyGMD",
+            "user": "AnoamlyGMD",
             "link": "",
             "percent": 75,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
