@@ -1,15 +1,15 @@
 {
-    "id": 107624334,
-    "name": "Allegiance",
-    "author": "Nikroplays",
-    "creators": [Nikroplays],
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Riot & More"],
     "verifier": "DomisorusRex",
-    "verification": "https://www.youtube.com/watch?v=URwPErFdH7c&t=",
-    "percentToQualify": "63",
-    "password": "Free To Copy",
+    "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik",
+    "percentToQualify": "52",
+    "password": "Not Copyable",
     "records": [
-         {
-            "user": "Foxxgod",
+{
+            "user": "Chilldo",
             "link": "",
             "percent": 100,
             "hz": 240
